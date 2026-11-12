@@ -39,4 +39,4 @@ The project provided hands-on practice with Linux file organization, terminal na
 
 ## 7. Evidence
 
-Screenshots `01`–`07` in the `screenshots/` folder show the executed terminal workflow. Original workspace files should be added separately from WSL2 before the repository is published.
+Screenshots `01`–`07` in the `screenshots/` folder show the executed terminal workflow. The project folders and sample files are also included in this repository.
