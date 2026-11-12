@@ -1,0 +1,5 @@
+09:00 INFO Server started
+09:10 ERROR Database connection failed
+09:15 WARNING High memory usage
+09:20 INFO User logged in
+09:25 ERROR Permission denied

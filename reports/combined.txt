@@ -1,0 +1,4 @@
+ls: cannot access 'missingfolder': No such file or directory
+documents:
+final.txt
+notes.txt
