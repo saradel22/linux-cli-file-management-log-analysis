@@ -38,7 +38,7 @@ linux-cli-project/
 └── notes-hardlink.txt       # hard link
 ```
 
-The structure above describes the intended WSL2 project; the files need to be copied from the actual Ubuntu workspace into this repository before publishing. Some empty files are included for file-management practice.
+The project files were created and tested in Ubuntu using WSL2, then copied into this GitHub repository. Some empty files are included for file-management practice.
 
 ## Example log analysis
 
